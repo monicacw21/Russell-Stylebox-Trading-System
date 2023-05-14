@@ -5,6 +5,9 @@ The jupyter lab file attached to this repository is for pulling data from yfinan
 
 In the future I will provide updates for the tools that are more interactive and will be rolling out a desktop application for pulling the data needed to run the excel file. Meaning that users that do not know how to use python will also have access to these tools and trading systems. 
 
+Note:
+Micro-Caps can be removed from the model of assets though with a small reduction in return and only a small reduction in worst year, but drawdown will be unchanged. 
+
 ![Russell](https://github.com/monicacw21/Russell-Stylebox-Trading-System/assets/101022450/a6db99fa-d446-4cb0-84c8-df04456dc7c3)
 Source: www.portfoliovisualizer.com
 
